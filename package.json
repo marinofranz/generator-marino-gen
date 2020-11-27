@@ -1,6 +1,6 @@
 {
   "name": "generator-marino-gen",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Yeoman Generator with Marino's preferred project setup",
   "scripts": {
     "postinstall": "node util/postinstall.js"

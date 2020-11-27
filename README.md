@@ -43,6 +43,7 @@ Got a problem when generating? Open an issue and I'll answer as fast as possible
 
 Want to contribute to the project? Open a pull request!
 
+
 <style>
     .divider {
         padding-top: 7.3px;

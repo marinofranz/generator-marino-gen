@@ -1,0 +1,23 @@
+{
+  "name": "generator-marino-gen",
+  "version": "0.1.0",
+  "description": "A Yeoman Generator with Marino's preferred project setup",
+  "scripts": {
+    "postinstall": "node util/postinstall.js"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "generator-git-init": "^1.1.3",
+    "generator-npm-init": "^1.5.1",
+    "yeoman-generator": "^4.12.0",
+    "yosay": "^2.0.2"
+  }
+}

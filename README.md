@@ -13,9 +13,9 @@ Then, install the generator
 <br>
 
 # Generate a project
-### (The generator does not create a root folder for you - please make sure to be in a folder where you want to have all the files)
+(The generator does not create a root folder for you - please make sure to be in a folder where you want to have all the files)
 <br>
-<h3> Steps: <ul>
+Steps: <ul>
     <div class="divider">
     <li> Make a new folder
     <li> Enter the folder
@@ -25,7 +25,6 @@ Then, install the generator
     <li> And bam, there you have your project!
     <li><strong>Make sure you edit the .env to your preferences</strong>
 </ul>
-</h3>
 
 ### Generate an express project
 
@@ -33,16 +32,16 @@ Then, install the generator
 
 <br>
 
-#### More templates are on their way!
+More templates are on their way!
 
 <br>
 
 # Issues & pull requests
-### You are more than welcome to contribute to this project.
-#### Got a problem when generating? Open an issue and I'll answer as fast as possible!
+You are more than welcome to contribute to this project.
+Got a problem when generating? Open an issue and I'll answer as fast as possible!
 <div class="divider-sm">
 
-#### Want to contribute to the project? Open a pull request!
+Want to contribute to the project? Open a pull request!
 
 <style>
     .divider {

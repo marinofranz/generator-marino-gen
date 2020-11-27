@@ -1,6 +1,6 @@
 {
   "name": "generator-marino-gen",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Yeoman Generator with Marino's preferred project setup",
   "scripts": {
     "postinstall": "node util/postinstall.js"
@@ -13,6 +13,10 @@
   ],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marinofranz/generator-marino-gen.git"
+  },
   "dependencies": {
     "chalk": "^4.1.0",
     "generator-git-init": "^1.1.3",
